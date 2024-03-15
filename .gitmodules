@@ -1,0 +1,3 @@
+[submodule "AnxietyFrontend"]
+	path = AnxietyFrontend
+	url = https://github.com/jujujuok/AnxietyFrontend.git
