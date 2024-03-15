@@ -1,3 +1,6 @@
 [submodule "AnxietyFrontend"]
 	path = AnxietyFrontend
 	url = https://github.com/jujujuok/AnxietyFrontend.git
+[submodule "AnxietyBackend"]
+	path = AnxietyBackend
+	url = https://github.com/jujujuok/AnxietyBackend.git
